@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(161, 161, 197);
+  font-family: Arial;
+}
+.btn-button{
+  margin-left: 10px;
+  padding: 10px;
+
+  border: 2px rgb(111, 111, 155) solid;
+  font-weight: bold;
+  background-color: rgb(93, 115, 177);
+  border-radius: 5px;
+}
+.input-btn{
+  padding: 10px;
+  border: 2px rgb(111, 111, 155) solid;
+border-radius: 5px;
+  font-weight: bold;
+}
